@@ -1,0 +1,9 @@
+div.board {
+    display: grid;
+    grid-template-columns: 2rem 2rem 2rem;
+    grid-template-rows: 2rem 2rem 2rem;
+}
+
+div.board > button {
+    color: black;
+}

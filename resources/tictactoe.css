@@ -1,0 +1,15 @@
+h1 > div {
+    font-size: .5em;
+    font-style: italic;
+}
+
+div.tictactoe {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+div.tictactoe > * {
+    margin: .5rem;
+}
+
